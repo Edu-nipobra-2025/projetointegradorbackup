@@ -1,6 +1,6 @@
 package com.br.projetointegrador.domain.repository;
 
-<<<<<<< HEAD
+
 import com.br.projetointegrador.domain.entity.Pessoa;
 
 import java.util.Optional;
@@ -17,7 +17,4 @@ public interface PessoaRepository {
         boolean existsByNomeCompleto(String nomeCompleto);
     }
 
-
-    public interface PessoaRepository {
-    }
 }

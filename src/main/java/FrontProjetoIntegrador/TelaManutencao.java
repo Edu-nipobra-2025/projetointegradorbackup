@@ -1,6 +1,7 @@
 package FrontProjetoIntegrador;
-import javax.swing.JFrame;
-import java.awt.*;
+
+import javax.swing.*;
+
 public class TelaManutencao {
     public static void main (String[] args){
 

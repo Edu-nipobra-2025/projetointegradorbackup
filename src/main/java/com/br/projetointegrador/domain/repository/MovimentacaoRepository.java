@@ -1,6 +1,5 @@
 package com.br.projetointegrador.domain.repository;
 
-<<<<<<< HEAD
 import com.br.projetointegrador.domain.entity.pessoa;
 
 import java.util.Optional;
@@ -13,7 +12,3 @@ public interface MovimentacaoRepository {
         boolean existsByStatusFinanceiro (String statusFinanceiro);
     }
 
-=======
-public interface MovimentacaoRepository {
-
-}

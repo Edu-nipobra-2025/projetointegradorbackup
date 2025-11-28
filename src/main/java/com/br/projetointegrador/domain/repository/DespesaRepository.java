@@ -24,7 +24,4 @@ public interface DespesaRepository {
 
         boolean existsByStatusManutencao (String statusManutencao);
     }
-=======
-public interface DespesaRepository {
-}
 
